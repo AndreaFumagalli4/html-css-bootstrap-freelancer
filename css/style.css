@@ -4,6 +4,10 @@ header{
 
 div.my_square{
     height: 200px;
-    width: 100%;
     background-color: magenta;
+    border: 1px solid black;
+}
+
+section#portfolio{
+    padding: 1rem 0;
 }
