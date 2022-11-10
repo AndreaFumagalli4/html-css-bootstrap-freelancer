@@ -9,6 +9,21 @@ div.my_square{
     border: 1px solid black;
 }
 
-section#portfolio{
-    padding: 1rem 0;
+section{
+    padding: 3rem 0;
 }
+
+section#footer-top{
+    background-color: #3a546d;
+}
+
+section#footer-bottom{
+    background-color: #3a546d;
+}
+
+div.my_square_footer{
+    height: 100px;
+    background-color: cyan;
+    border: 1px solid darkblue;
+}
+
