@@ -1,0 +1,9 @@
+header{
+    background-color: #1abc9c;
+}
+
+div.my_square{
+    height: 200px;
+    width: 100%;
+    background-color: magenta;
+}
