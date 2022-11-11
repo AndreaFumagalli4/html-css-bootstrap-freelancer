@@ -29,7 +29,8 @@ div.separator-black{
     background-color: black;
 }
 
-section#portfolio{
+section#portfolio,
+section#contact-me{
     color: black;
 }
 
@@ -37,11 +38,9 @@ section#portfolio img{
     width: 100%;
 }
 
-
-div.my_square_footer{
-    height: 100px;
-    background-color: cyan;
-    border: 1px solid darkblue;
+div#form button{
+    background-color: #1abc9c;
+    color: white;
 }
 
 section#footer-top{
