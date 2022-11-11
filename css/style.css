@@ -12,24 +12,36 @@ section#about{
     background-color: #1abc9c;
 }
 
-img{
+img#avatar{
     width: 50%;
 }
 
 div.separator{
     height: 3px;
     width: 15%;
+}
+
+div.separator-white{
     background-color: white;
 }
+
+div.separator-black{
+    background-color: black;
+}
+
+section#portfolio{
+    color: black;
+}
+
+section#portfolio img{
+    width: 100%;
+}
+
 
 div.my_square_footer{
     height: 100px;
     background-color: cyan;
     border: 1px solid darkblue;
-}
-
-section{
-    padding: 1rem 0;
 }
 
 section#footer-top{
