@@ -8,7 +8,8 @@ header{
 }
 
 section#jumbotron,
-section#about{
+section#about,
+div#form button{
     background-color: #1abc9c;
 }
 
@@ -39,12 +40,15 @@ section#portfolio img{
 }
 
 div#form button{
-    background-color: #1abc9c;
     color: white;
 }
 
 section#footer-top{
     background-color: #3a546d;
+}
+
+span#green{
+    color: #1abc9c;
 }
 
 section#footer-bottom{
